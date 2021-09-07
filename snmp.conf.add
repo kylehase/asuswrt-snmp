@@ -1,0 +1,11 @@
+extend .1.3.6.1.2.1.25.1.8 temp /bin/sh /jffs/scripts/snmp/temp.sh
+extend .1.3.6.1.2.1.25.1.9 dhcp /bin/sh /jffs/scripts/snmp/dhcp.sh
+extend .1.3.6.1.2.1.25.1.10 connected /bin/sh /jffs/scripts/snmp/connected.sh
+extend .1.3.6.1.2.1.25.1.11 chip1 /bin/sh /jffs/scripts/snmp/chip1.sh
+extend .1.3.6.1.2.1.25.1.12 chip2 /bin/sh /jffs/scripts/snmp/chip2.sh
+extend .1.3.6.1.2.1.25.1.13 mem /bin/sh /jffs/scripts/snmp/mem.sh
+extend .1.3.6.1.2.1.25.1.14 idle /bin/sh /jffs/scripts/snmp/idle.sh
+extend .1.3.6.1.2.1.25.1.15 uptime /bin/sh /jffs/scripts/snmp/uptime.sh
+extend .1.3.6.1.2.1.25.1.16 jffs /bin/sh /jffs/scripts/snmp/jffs.sh
+extend .1.3.6.1.2.1.25.1.17 download /bin/sh /jffs/scripts/snmp/download.sh
+extend .1.3.6.1.2.1.25.1.18 upload /bin/sh /jffs/scripts/snmp/upload.sh
